@@ -1,19 +1,19 @@
-  name: HTML5/CSS3
+- name: HTML5/CSS3
   percentage: 90
   color: danger
 
-  name: Javascript
+- name: Javascript
   percentage: 70
   color:
 
-  name: Python
+- name: Python
   percentage: 70
   color: 
 
-  name: Nodejs
+- name: Nodejs
   percentage: 30
   color:
 
-  name: C++
+- name: C++
   percentage: 40
   color:
