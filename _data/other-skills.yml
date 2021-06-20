@@ -1,9 +1,14 @@
-- name: Adobe Photoshop
-  percentage: 80
+- name: Web App Penetration Testing
+  percentage: 60
   color: info
 
-- name: Adobe Illustrator
-  percentage: 60
+- name: Network Penetration Testing
+  percentage: 40
+  color: success
+  
+ 
+- name: Reverse Engineering
+  percentage: 10
   color: success
 
 - name: SEO
