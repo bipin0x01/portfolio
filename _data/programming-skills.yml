@@ -1,4 +1,4 @@
-- name: HTML5/CSS3
+  name: HTML5/CSS3
   percentage: 90
   color: danger
 
@@ -6,9 +6,9 @@
   percentage: 70
   color:
 
-- name: Python
+  name: Python
   percentage: 70
-  color: secondary
+  color: 
 
   name: Nodejs
   percentage: 30
