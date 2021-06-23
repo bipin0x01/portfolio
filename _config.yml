@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Bipin Thapa
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I break into things :unlock: , but the irony is getting paid to break.
+                      A Geek seeking romanticism in technology. :computer:
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bipin0x01/portfolio    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
