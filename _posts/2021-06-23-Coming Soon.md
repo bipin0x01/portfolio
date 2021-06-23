@@ -1,9 +1,9 @@
 ---
 title: Coming Soon
-tags: 
+tags: [Dummy]
 style: 
 color: 
-description: 
+description: Dummy
 ---
 
 Source: [Img Alt](img link)
