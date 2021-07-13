@@ -1,37 +1,32 @@
-- title: Student, NIST
+- title: National Institute of Science and Technology (NIST)
   from: 2016
   to: 2018
-  description: +2 Science
+  description: Completed +2 in Computer Science
 
-- title: Student, Asian Schools of Science and Technology
-  from: 2021
+- title: Asian Schools of Science and Technology
+  from: 2020
   to: present
-  description: BCA
+  description: Completing my Undergraduates in Computer Applications(BCA)
 
 
-- title: Content Writer/SEO Analyst at passivefinancer.com
+- title: Content Writer/SEO Analyst at passive financer.com
   from: 2017
   to: 2019
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Content Research, Blog Post Creation and On page and Off-Page as well as Technical SEO
+                Optimization.
 
 - title: Freelance Web Developer
   from: 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Worked on freelance web development projects like gamemandu, icartnepal, rural.ao, 
+              cashkar, etc. Some of which can be found in my portfolio.
 
   title: Infosec Enthusiast and Independent Security Researcher
   from: 2019
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Started studying Cyber Security Concepts and doing Independent Research
+
+  title: CTF Player
+  from: 2020
+  to: present
+  description: Started Participating in online Capture the Flag(CTF) Contests out of which most are Jeopardy-style.

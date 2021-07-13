@@ -11,9 +11,9 @@
   color: 
 
 - name: Nodejs
-  percentage: 30
+  percentage: 20
   color:
 
 - name: C++
-  percentage: 40
+  percentage: 10
   color:

@@ -1,16 +1,15 @@
 - name: Web App Penetration Testing
-  percentage: 60
+  percentage: 50
   color: info
 
 - name: Network Penetration Testing
-  percentage: 40
+  percentage: 30
   color: success
-  
  
 - name: Reverse Engineering
-  percentage: 10
+  percentage: 25
   color: success
 
 - name: SEO
-  percentage: 45
+  percentage: 60
   color:
