@@ -15,7 +15,8 @@ This is a simple to say yet very complex to do process which we are going to loo
 #### **How does a CPU run a parogram written in english or human readable form?**
 
 &ensp;&ensp;Computers(say Digital Computers) can only understand 0s and 1s or simply binary which we, as humans find difficult to do manually for large computations. So, We cannot just communicate to each other.
-Have you even seen a human talking like '01001000011001010110110001101100011011110010000001010011011001010111100001111001'. 
+Have you even seen a human talking like '0100100001100101011011000110110001101111
+0010000001010011011001010111100001111001'. 
 Of Course Not!
 
 &ensp;&ensp;Similarly, Lets assume humans are French and computers the Chinese. Both of them don't know each others mother tongue. So, they cannot communicate. The only way of communication is through translation, A person or language 'x' comes in the middle who knows both the languages. It takes the data from one person, translates and provides to the another. Just like a real world human language translators.
@@ -48,7 +49,7 @@ Lets compare it to a real life example, Suppose there are 5 people standing next
 &ensp;&ensp; But, That's not everything. There is more to go! Just Keep Scrolling.
 
 
-#### **Reasons to Use/Learn Assembly**
+#### **Reasons to learn Assembly?**
 
 &ensp;&ensp; It is the most human readable language which is closest to the computers after machine language, which is a lot harder to memorize. Assembly uses pneumonics instructions for performing task and making it easier to understand.
 
