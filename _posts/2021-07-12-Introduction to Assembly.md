@@ -30,7 +30,7 @@ Of Course Not!
 #### **Wait, wait, Do you have an idea about [Linker](https://en.wikipedia.org/wiki/Linker_(computing)) and a library file? Don't worry, I've got your back.**
 
 &ensp;&ensp;If you are a programmer, you might be familiar with [libraries](https://en.wikipedia.org/wiki/Library_(computing)) If not you will eventually know it. It's the same term and is basically pieces of pre-written code to do some tasks. For Example: TensorFlow is a well known python library for Machine Learning. So, If you write a program that uses the 'Tensorflow' library in your python program. The [Linker](https://en.wikipedia.org/wiki/Linker_(computing)) links or binds all the assembled object files the object file together with that library.
-Moreover, Linker also links the object code to all the other important files like [makefiles], etc.(https://en.wikipedia.org/wiki/Make_(software))(**which we'll not talk about**). Then the final linked file we get is as executable binary also known as bin.
+Moreover, Linker also links the object code to all the other important files like [makefiles](https://en.wikipedia.org/wiki/Make_(software)), etc.(**which we'll not talk about**). Then the final linked file we get is as executable binary also known as bin.
 
 &ensp;&ensp;When the executables/bins are run, the CPU processes the given machine code and performs the instruction by using the registers in the processor which are made up of flip flops(made up of logic gates which is the base of digital electronics).
 
