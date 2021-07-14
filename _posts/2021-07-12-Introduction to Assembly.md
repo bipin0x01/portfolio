@@ -19,7 +19,7 @@ Have you even seen a human talking like '010010000110010101101100011011000110111
 0010000001010011011001010111100001111001'. 
 Of Course Not!
 
-&ensp;&ensp;Similarly, Lets assume humans are French and computers the Chinese. Both of them don't know each others mother tongue. So, they cannot communicate. The only way of communication is through translation, A person or language 'x' comes in the middle who knows both the languages. It takes the data from one person, translates and provides to the another whom we call real world language translators/interpreters.
+&ensp;&ensp;Similarly, Lets assume humans are French and computers the Chinese. Both of them don't know each others mother tongue. So, they cannot communicate. The only way of communication is through translation, A person or language 'x' comes in the middle who knows both the languages. It takes the data from one person, translates and provides to the another whom we call real world  language translators/interpreters.
 
 &ensp;&ensp;So, Programs written in a programming language is actually converted into something the computer can understand 'machine code' by the use of translators.
 
