@@ -6,7 +6,7 @@ color:
 description: Assembly Language is required to get further into Reverse Engineering, Binary Exploitation and low level attacks like Buffer Overflow Attacks. So, getting a understanding of the basic concepts is always fruitful. In this blog, I will try to cover the basics of how computer programs goes through the process from being written to execution and processing.
 ---
 
-![Introduction to Assembly](https://beningo-embedded-group.s3.amazonaws.com/2020/06/AdobeStock_135663532-825x510.jpeg)
+![Introduction to Assembly](https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/intro%20to%20assembly-thumbnail.jpeg)
 
 &ensp;&ensp;All these fascinating computers run only on the basis of 0s and 1s.
 But, Have you ever wondered how a computer is able to recognize 'xyz' lines of codes programmers write in any programming languages?
@@ -26,6 +26,9 @@ Of Course Not!
 &ensp;&ensp;To be specific, The code you write in human readable language([High Level language](https://en.wikipedia.org/wiki/High-level_programming_language)) like php, python, etc is first converted into a low level language code or assembly code with the help of translators like compiler of interpreter. Again the assembler converts the assembly code into a object file which contains the source code of the program.
 
 &ensp;&ensp;Now, Linker links the object file with the library file present in the system and generates a machine code which is sent to the CPU. 
+
+![Program process flowchart](https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/assembly%20flowchart.gif)
+
 
 #### **Wait, wait, what the hell is [Linker](https://en.wikipedia.org/wiki/Linker_(computing)) and a library file? Don't worry, I've got your back.**
 
