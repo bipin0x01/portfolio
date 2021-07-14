@@ -79,5 +79,5 @@ Note:  **In this article term 'Assembly' is used to define low level language an
 Instead of program conversion from high level language to the assembly, in real scenerio the executables or binaries are disassembled into the assembly language for reverse engineering which we will further discuss in the next part of blog series.
 
 
-**Disclaimer: I, the writer of this article do not claim to be any kind of expert but a keen learner. So, Feedbacks, corrections and addups are highly appreciated. Everything that is explained above is oversimplified and is meant for beginners.**
+**Disclaimer: I, the writer of this article do not claim to be any kind of expert but a keen learner. So, Feedbacks, corrections and addups are highly appreciated. Everything that is explained above is oversimplified and is meant for beginners with at least some knowledge of computers and programming.**
 
