@@ -67,7 +67,7 @@ Lets compare it to a real life example, Suppose there are 5 people standing next
 
 
 
-**Extras** 
+#### **Extras** 
 
 You may skip the parts below if you feel it going over the head.
 
