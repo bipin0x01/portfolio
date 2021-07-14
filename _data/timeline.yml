@@ -3,12 +3,6 @@
   to: 2018
   description: Completed +2 in Computer Science
 
-- title: Asian Schools of Science and Technology
-  from: 2020
-  to: present
-  description: Completing my Undergraduates in Computer Applications(BCA)
-
-
 - title: Content Writer/SEO Analyst at passive financer.com
   from: 2017
   to: 2019
@@ -25,6 +19,12 @@
   from: 2019
   to: present
   description: Started studying Cyber Security Concepts and doing Independent Research
+
+
+- title: Asian Schools of Science and Technology
+  from: 2019
+  to: present
+  description: Pursuing my Undergraduates in Computer Applications(BCA)
 
 - title: CTF Player
   from: 2020
