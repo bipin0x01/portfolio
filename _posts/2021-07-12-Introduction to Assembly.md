@@ -27,11 +27,7 @@ Of Course Not!
 
 &ensp;&ensp;Now, Linker links the object file with the library file present in the system and generates a machine code which is sent to the CPU. 
 
-![Program process flowchart](https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/assembly%20flowchart.gif)
-![](
-https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/flowchart.jpeg
-)
-
+![Program process flowchart](https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/flowchart.jpeg)
 
 #### **Wait, wait, what the hell is [Linker](https://en.wikipedia.org/wiki/Linker_(computing)) and a library file? Don't worry, I've got your back.**
 
