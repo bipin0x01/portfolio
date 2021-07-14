@@ -35,7 +35,7 @@ Of Course Not!
 &ensp;&ensp;If you are a programmer, you might be familiar with [libraries](https://en.wikipedia.org/wiki/Library_(computing)) If not you will eventually know it. It's the same term and is basically pieces of pre-written code to do some tasks. For Example: TensorFlow is a well known python library for Machine Learning. So, If you write a program that uses the 'Tensorflow' library in your python program. The [Linker](https://en.wikipedia.org/wiki/Linker_(computing)) links or binds all the assembled object files together with that library.
 Moreover, Linker also links the object code to all the other important files like [makefiles](https://en.wikipedia.org/wiki/Make_(software)), etc.(**which we'll not talk about**). Then the final linked file we get, is as executable binary also known as bin.
 
-<img style="padding:5px;" height="250px" width="350px" align="left" src="https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/linker-process.webp">
+<img style="padding:10px;" height="250px" width="350px" align="left" src="https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/linker-process.webp">
 
 
 &ensp;&ensp;When the executables/bins are run, the CPU processes the given machine code and performs the instruction by using the registers in the processor which are made up of flip flops(made of logic gates which is the base of digital electronics).
