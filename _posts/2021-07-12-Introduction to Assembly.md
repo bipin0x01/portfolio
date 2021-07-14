@@ -14,6 +14,8 @@ This is a simple to say yet very complex to do process which we are going to loo
 
 #### **How does a CPU run a program written in english or human readable form?**
 
+<img style="padding:5px;" align="right" width="150" height="400" src="https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/flowchart.jpeg">
+
 &ensp;&ensp;Computers(say Digital Computers) can only understand 0s and 1s or simply binary which we, as humans find difficult to do manually for large computations. So, We cannot just communicate to each other.
 Have you even seen a human talking like '0100100001100101011011000110110001101111
 0010000001010011011001010111100001111001'. 
@@ -27,12 +29,14 @@ Of Course Not!
 
 &ensp;&ensp;Now, Linker links the object file with the library file present in the system and generates a machine code which is sent to the CPU. 
 
-![Program process flowchart](https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/flowchart.jpeg)
 
 #### **Wait, wait, what the hell is [Linker](https://en.wikipedia.org/wiki/Linker_(computing)) and a library file? Don't worry, I've got your back.**
 
 &ensp;&ensp;If you are a programmer, you might be familiar with [libraries](https://en.wikipedia.org/wiki/Library_(computing)) If not you will eventually know it. It's the same term and is basically pieces of pre-written code to do some tasks. For Example: TensorFlow is a well known python library for Machine Learning. So, If you write a program that uses the 'Tensorflow' library in your python program. The [Linker](https://en.wikipedia.org/wiki/Linker_(computing)) links or binds all the assembled object files together with that library.
 Moreover, Linker also links the object code to all the other important files like [makefiles](https://en.wikipedia.org/wiki/Make_(software)), etc.(**which we'll not talk about**). Then the final linked file we get, is as executable binary also known as bin.
+
+<img style="padding:5px;" height="250px" width="350px" align="left" src="https://raw.githubusercontent.com/bipin0x01/portfolio/main/assets/img/posts/Introduction-to-assembly/linker-process.webp">
+
 
 &ensp;&ensp;When the executables/bins are run, the CPU processes the given machine code and performs the instruction by using the registers in the processor which are made up of flip flops(made of logic gates which is the base of digital electronics).
 
